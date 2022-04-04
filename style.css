@@ -56,7 +56,7 @@ nav {
 background-color: lightgray;
 width: 100%;
 position: sticky;
-top: 15vh;
+top: 14.9vh;
 z-index: 3;
 }
 
@@ -185,7 +185,7 @@ article {
         font-size: 25px;
     }
     section {
-        height: 46vw;
+        height: 45.5vw;
     }
 }
 
