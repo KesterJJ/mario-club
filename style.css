@@ -224,3 +224,7 @@ article {
         font-size: 30px;
     }
 }
+
+@media screen and (max-width: 300px) {
+    h1 { font-size: 10px;}
+}
