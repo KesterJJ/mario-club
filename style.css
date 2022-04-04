@@ -4,6 +4,10 @@
     font-family: sans-serif;
 }
 
+body {
+    background-color: white;
+}
+
 header {
     background-color: red;
     position: sticky;
@@ -186,6 +190,9 @@ article {
 }
 
 @media screen and (max-width: 900px) {
+    h1 {
+        font-size: 35px;
+    }
     h2 {
         font-size: 50px;
     }
@@ -199,6 +206,9 @@ article {
 
 
 @media screen and (max-width: 600px) {
+    h1 {
+        font-size: 20px;
+    }
     h2 {
         font-size: 40px;
     }
@@ -209,6 +219,7 @@ article {
 }
 
 @media screen and (max-width: 400px) {
+    h1 { font-size: 15px;}
     h2 {
         font-size: 30px;
     }
